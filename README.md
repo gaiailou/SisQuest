@@ -18,16 +18,16 @@ a serious online game on the topic of sexuality
 We are a team of 13 students from the "IUT informatique Paul Sabatier" in Toulouse and we have chosen to participate in the information night 2022 under the team name "$iutinfo".
 
 Our team is composed of :
-- Quentin Couturier, our team leader
-- Titouan Pastor
-- Téo Asseline
-- Baptiste Bayche
-- Elena Chelle
-- Noa Despaux
-- Gaïa Ducournau
-- Clément Faux
-- Mendy Paul
-- Jehan Philipon
-- Nicolas Rousseau
-- Chloé Sechi
-- Arthur Weidner
+- [Quentin Couturier, our team leader](https://github.com/shiroling)
+- [Titouan Pastor](https://github.com/TitouanPastor)
+- [Téo Asseline](https://github.com/TeoAsseline)
+- [Baptiste Bayche](https://github.com/BaptisteBayche)
+- [Elena Chelle](https://www.linkedin.com/in/elena-chelle)
+- [Noa Despaux](https://github.com/NoaDespaux)
+- [Gaïa Ducournau](https://github.com/gaiailou)
+- [Clément Faux](https://github.com/fc106656)
+- [Mendy Paul](https://github.com/endspigel)
+- [Jehan Philipon](https://github.com/JehanPhlp)
+- [Nicolas Rousseau](https://github.com/NeikoStream)
+- [Chloé Sechi](https://github.com/chaton2a)
+- [Arthur Weidner]([https://github.com/](https://www.linkedin.com/in/arthur-weidner/))
