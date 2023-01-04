@@ -30,4 +30,4 @@ Our team is composed of :
 - [Jehan Philipon](https://github.com/JehanPhlp)
 - [Nicolas Rousseau](https://github.com/NeikoStream)
 - [Chloé Sechi](https://github.com/chaton2a)
-- [Arthur Weidner]([https://github.com/](https://www.linkedin.com/in/arthur-weidner/))
+- [Arthur Weidner](https://www.linkedin.com/in/arthur-weidner/)
